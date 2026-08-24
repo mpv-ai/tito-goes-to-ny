@@ -22,7 +22,10 @@ function matches(l) {
   if (f === "2" && l.beds !== 2) return false;
   if (f === "3" && l.beds !== 3) return false;
   if (f === "west" && l.neighborhood !== "West Village") return false;
-  if (f === "near" && l.neighborhood === "West Village") return false;
+  if (f === "east" && l.neighborhood !== "East Village") return false;
+  if (f === "greenwich" && l.neighborhood !== "Greenwich Village") return false;
+  if (f === "soho" && !["SoHo","NoHo","NoLita","Hudson Square"].includes(l.neighborhood)) return false;
+  if (f === "chelsea" && !["Chelsea","Meatpacking"].includes(l.neighborhood)) return false;
   if (state.q) {
     const blob = [l.name, l.headline, l.address, l.neighborhood, l.note, l.why].join(" ").toLowerCase();
     if (!blob.includes(state.q.toLowerCase())) return false;

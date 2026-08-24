@@ -1,7 +1,7 @@
 {
   "name": "Tito Goes to NY",
   "short_name": "Tito NY",
-  "description": "West Village apartments for 2 or 3 roommates. Max $2k each.",
+  "description": "Downtown apartments for 2 or 3 roommates. Max $2,500 each.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
