@@ -1,8 +1,8 @@
 {
   "title": "Tito Goes to NY",
   "tagline": "Downtown, 2 or 3 roommates, max $2,500 each",
-  "updated": "2026-08-24T08:15:00-04:00",
-  "updatedLabel": "24 Aug 2026, 8:15 AM ET",
+  "updated": "2026-08-25T08:25:00-04:00",
+  "updatedLabel": "25 Aug 2026, 8:25 AM ET",
   "perPerson": 2500,
   "empty": "Nothing in this filter.",
   "listings": [
@@ -170,8 +170,8 @@
       "sqft": null,
       "available": "Inquire",
       "source": "Zumper",
-      "ref": "EV 2BR search, live 24 Aug",
-      "url": "https://www.zumper.com/apartments-for-rent/new-york-ny/east-village/2-beds",
+      "ref": "65167961",
+      "url": "https://www.zumper.com/listings/65167961/2-bedroom-east-village-new-york-ny",
       "photo": null,
       "why": "Copy names two bedrooms and a 4-room layout. Hardwood, city views, live-in super. $2,375 each.",
       "note": "No dedicated listing URL this morning. Not StuyTown #9G.",
@@ -214,6 +214,25 @@
       "why": "$2,333 each. Queen bedrooms, in-unit laundry, elevator, pets.",
       "note": "One bath. Model photos. Building page says pending application \u2014 call first.",
       "added": "24 Aug 2026"
+    },
+    {
+      "id": "215-e-4th-st-19a",
+      "name": "215 East 4th Street #19A",
+      "headline": "True 3BR / 1BA with in-unit W/D, $2,232 each",
+      "rent": 6695,
+      "address": "215 E 4th St #19A, New York, NY 10009",
+      "neighborhood": "East Village",
+      "beds": 3,
+      "baths": 1,
+      "sqft": null,
+      "available": "1 Sep 2026",
+      "source": "Corcoran",
+      "ref": "23924952",
+      "url": "https://www.corcoran.com/listing/for-rent/215-east-4th-street-19a-manhattan-ny-10009/23924952/regionId/1",
+      "photo": "photos/215-e-4th-st-19a.jpg",
+      "why": "Two queen rooms plus a smaller room that fits a full and a desk. In-unit laundry, pets OK.",
+      "note": "Fifth-floor walk-up. One bath. Living room is small. Tour the third bedroom.",
+      "added": "25 Aug 2026"
     }
   ]
 }
