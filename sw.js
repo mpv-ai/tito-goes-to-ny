@@ -1,4 +1,4 @@
-const CACHE = "tito-ny-v6";
+const CACHE = "tito-ny-v7";
 const CORE = ["./","index.html","styles.css","app.js","listings.js","manifest.webmanifest","apple-touch-icon.png","icon-192.png","icon-512.png"];
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(CORE)).then(() => self.skipWaiting()));
