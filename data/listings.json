@@ -1,8 +1,8 @@
 {
   "title": "Tito Goes to NY",
   "tagline": "Downtown, 2 or 3 roommates, max $2,500 each",
-  "updated": "2026-09-02T08:15:00-04:00",
-  "updatedLabel": "2 Sep 2026, 8:15 AM ET",
+  "updated": "2026-09-06T08:20:00-04:00",
+  "updatedLabel": "6 Sep 2026, 8:20 AM ET",
   "perPerson": 2500,
   "empty": "Nothing in this filter.",
   "listings": [
@@ -290,6 +290,25 @@
       "why": "$2,250 each. All three bedrooms queen-sized with windows and closets. Two baths. Pets and shares OK.",
       "note": "Broker fee. First floor. Zumper tags it Greenwich Village; listing copy says NoHo.",
       "added": "23 Aug 2026"
+    },
+    {
+      "id": "350-e-13th-st-4",
+      "name": "350 East 13th Street #4",
+      "headline": "True 3BR / 2BA gut reno at $6,950 — big living room + in-unit W/D",
+      "rent": 6950,
+      "address": "350 E 13th St #4, New York, NY 10003",
+      "neighborhood": "East Village",
+      "beds": 3,
+      "baths": 2,
+      "sqft": null,
+      "available": "Inquire — Zumper listing_status Available; date_available blank",
+      "source": "Zumper / Natalia Anhel (Living Real Estate Group, LLC) · RealtyMX",
+      "ref": "listing_id 54760287 · /listings/4325892p · listed 5 Apr 2025 · modified 2 Sep 2026 ~2:26 AM ET · listing_status 1 · min_lease_days 360",
+      "url": "https://www.zumper.com/listings/4325892p/3-bedroom-east-village-new-york-ny",
+      "photo": "photos/350-e-13th-st-4.jpg",
+      "why": "$2,317 each. Dedicated listings page opened this morning with named true 3BR copy: 3 Queen Size Bedrooms, 2 Full Baths, Big Living Room, in-unit W/D, stainless appliances, high ceilings, marble baths. Two baths is rare at this budget. Photo shows open living/kitchen + stacked W/D + multiple bedroom doors.",
+      "note": "Reappeared: prior mornings (29 Aug–4 Sep) address/building page was Notify me / rent \"-\". Today dedicated /listings/ page is live at $6,950; building address page still has empty units and provider URL resolves to Living NY homepage (not the unit). Stale-date / syndication risk — call before touring.",
+      "added": "6 Sep 2026"
     },
     {
       "id": "412-e-9th-st-9",
