@@ -1,8 +1,8 @@
 {
   "title": "Tito Goes to NY",
   "tagline": "Downtown, 2 or 3 roommates, max $2,500 each",
-  "updated": "2026-09-06T08:20:00-04:00",
-  "updatedLabel": "6 Sep 2026, 8:20 AM ET",
+  "updated": "2026-09-08T08:42:00-04:00",
+  "updatedLabel": "8 Sep 2026, 8:42 AM ET",
   "perPerson": 2500,
   "empty": "Nothing in this filter.",
   "listings": [
@@ -366,25 +366,6 @@
       "why": "$2,333 each. Live page at $7,000. Copy names a renovated 3-bedroom duplex with generous bedroom sizes (3rd bedroom on the lower level), two baths, massive private garden, in-unit W/D, Bosch kitchen, brownstone. Two baths at the cap is rare.",
       "note": "Third bedroom is downstairs — tour it. No unit number on the page. May 2026 post is fresher than the 2025 recycled cards but still ~3.5 months on market. Call before touring.",
       "added": "29 Aug 2026"
-    },
-    {
-      "id": "44-avenue-b-12",
-      "name": "44 Avenue B #12",
-      "headline": "Penthouse duplex 3BR with private roof, at the cap",
-      "rent": 7500,
-      "address": "44 Avenue B #12, New York, NY 10009",
-      "neighborhood": "East Village",
-      "beds": 3,
-      "baths": 1.5,
-      "sqft": null,
-      "available": "15 Sep 2026",
-      "source": "Realtor.com",
-      "ref": "M92845-91155",
-      "url": "https://www.realtor.com/rentals/details/44-Avenue-B-12_New-York_NY_10009_M92845-91155",
-      "photo": "photos/44-avenue-b-12.jpg",
-      "why": "Exactly $2,500 each. True 3-bed penthouse duplex, private roof, W/D, exposed brick.",
-      "note": "Ignore the Zumper Avenue B #12 flex-3 at $7,495. This is the realtor penthouse.",
-      "added": "23 Aug 2026"
     }
   ]
 }
