@@ -1,8 +1,8 @@
 {
   "title": "Tito Goes to NY",
   "tagline": "Downtown, 2 or 3 roommates, max $2,500 each",
-  "updated": "2026-09-11T08:50:22-04:00",
-  "updatedLabel": "11 Sep 2026, 8:50 AM ET",
+  "updated": "2026-09-14T08:57:26-04:00",
+  "updatedLabel": "14 Sep 2026, 8:57 AM ET",
   "perPerson": 2500,
   "empty": "Nothing in this filter.",
   "listings": [
@@ -309,25 +309,6 @@
       "why": "$2,332 each. Still Available on the live building page. High ceilings, exposed brick, six windows, separate kitchen with dishwasher. Pets allowed.",
       "note": "Weaker bedroom copy than #8. Stale-date risk: avail dated 1 Aug 2026, 55 DOM. Call before touring. Walk-up, one bath.",
       "added": "28 Aug 2026"
-    },
-    {
-      "id": "214-e-9th-st-408",
-      "name": "214 East 9th Street #408",
-      "headline": "True 3BR / 1BA at $7,000",
-      "rent": 7000,
-      "address": "214 E 9th St #408, New York, NY 10003",
-      "neighborhood": "East Village",
-      "beds": 3,
-      "baths": 1,
-      "sqft": null,
-      "available": "Inquire — pending application",
-      "source": "Zumper",
-      "ref": "Sharon Bogdan, listed 20 Aug",
-      "url": "https://www.zumper.com/address/214-e-9th-st-new-york-ny-10003-usa",
-      "photo": null,
-      "why": "$2,333 each. Queen bedrooms, in-unit laundry, elevator, pets.",
-      "note": "One bath. Model photos. Building page says pending application — call first.",
-      "added": "24 Aug 2026"
     },
     {
       "id": "49-e-7th-st",
