@@ -1,8 +1,8 @@
 {
   "title": "Tito Goes to NY",
   "tagline": "Downtown, 2 or 3 roommates, max $2,500 each",
-  "updated": "2026-09-15T08:15:00-04:00",
-  "updatedLabel": "15 Sep 2026, 8:15 AM ET",
+  "updated": "2026-09-16T09:05:00-04:00",
+  "updatedLabel": "16 Sep 2026, 9:05 AM ET",
   "perPerson": 2500,
   "empty": "Nothing in this filter.",
   "listings": [
@@ -214,6 +214,25 @@
       "why": "In-unit laundry, dishwasher, roof deck, pets, brownstone.",
       "note": "At the 2BR cap. Tour this exact unit; similar E 13th ads look syndicated.",
       "added": "23 Aug 2026"
+    },
+    {
+      "id": "208-e-7th-st-4g",
+      "name": "208 East 7th Street #4G",
+      "headline": "Renovated true 2BR / 1BA at $4,995 — in-unit W&D near Tompkins",
+      "rent": 4995,
+      "address": "208 E 7th St #4G, New York, NY 10009",
+      "neighborhood": "East Village",
+      "beds": 2,
+      "baths": 1,
+      "sqft": null,
+      "available": "Listed 16 Sep 2026 — Available",
+      "source": "Zumper",
+      "ref": "listings/29577205p · listing_id 65342968 · datePosted 16 Sep 2026 · listing_status 1 · verified 16 Sep 2026",
+      "url": "https://www.zumper.com/listings/29577205p/2-bedroom-east-village-new-york-ny",
+      "photo": "photos/208-e-7th-st-4g.jpg",
+      "why": "$2,498 each. Dedicated Zumper page live at $4,995 this morning. Copy names a renovated 2-bedroom with spacious bedrooms, in-unit W&D, dishwasher, hardwood, updated kitchen & bath, pet-friendly, near Tompkins Square Park.",
+      "note": "Feed is realty_mx but copy is unit-specific (not modern-luxury ROS boilerplate). date_available field shows 2016/01/21 — treat as stale feed metadata; page is listing_status 1 with today's datePosted. Tour to confirm both rooms fit queens.",
+      "added": "16 Sep 2026"
     },
     {
       "id": "412-e-9th-st-8",
