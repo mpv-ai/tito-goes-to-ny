@@ -1,8 +1,8 @@
 {
   "title": "Tito Goes to NY",
   "tagline": "Downtown, 2 or 3 roommates, max $2,500 each",
-  "updated": "2026-09-16T09:05:00-04:00",
-  "updatedLabel": "16 Sep 2026, 9:05 AM ET",
+  "updated": "2026-09-19T08:30:00-04:00",
+  "updatedLabel": "19 Sep 2026, 8:30 AM ET",
   "perPerson": 2500,
   "empty": "Nothing in this filter.",
   "listings": [
@@ -347,6 +347,25 @@
       "why": "$2,333 each. Live page at $7,000. Copy names a renovated 3-bedroom duplex with generous bedroom sizes (3rd bedroom on the lower level), two baths, massive private garden, in-unit W/D, Bosch kitchen, brownstone. Two baths at the cap is rare.",
       "note": "Third bedroom is downstairs — tour it. No unit number on the page. May 2026 post is fresher than the 2025 recycled cards but still ~3.5 months on market. Call before touring.",
       "added": "29 Aug 2026"
+    },
+    {
+      "id": "170-e-2nd-st-1e",
+      "name": "170 East 2nd Street #1E",
+      "headline": "Renovated true 3BR / 1BA at $7,495 — private patio + in-unit W/D",
+      "rent": 7495,
+      "address": "170 E 2nd St #1E, New York, NY 10009",
+      "neighborhood": "East Village",
+      "beds": 3,
+      "baths": 1,
+      "sqft": null,
+      "available": "Listed 18 Sep 2026 — Available",
+      "source": "Zumper / Real New York APARTMENTS · RealtyMX",
+      "ref": "listing_id 65361243 · pl_id 4400053 · /listings/4400053p · datePosted 18 Sep 2026 ~8:23 AM ET · dateModified 18 Sep 2026 ~8:27 AM ET · listing_status 1 · verified 19 Sep 2026",
+      "url": "https://www.zumper.com/listings/4400053p/3-bedroom-east-village-new-york-ny",
+      "photo": "photos/170-e-2nd-st-1e.jpg",
+      "why": "$2,498 each. Dedicated Zumper page opened this morning at $7,495. Copy names a renovated East Village 3-bedroom with private patio, in-unit W/D, dishwasher, queen/full-size bedrooms with closets in every bedroom, hardwood, stainless, marble counters. Under the 3BR cap.",
+      "note": "New overnight listing (datePosted 18 Sep). Feed is realty_mx but copy is unit-specific (not modern-luxury ROS boilerplate). date_available field blank/stale elsewhere in feed — treat as syndication metadata; page is listing_status 1 with yesterday's datePosted. One bath. Tour to confirm all three rooms fit. Staging photo: /workspace/tito-ny-photos-staging-2026-09-19/170-e-2nd-st-1e.jpg.",
+      "added": "19 Sep 2026"
     },
     {
       "id": "44-avenue-b-6-3r",
