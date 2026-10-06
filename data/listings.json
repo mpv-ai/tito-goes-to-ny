@@ -1,8 +1,8 @@
 {
   "title": "Tito Goes to NY",
   "tagline": "Downtown, 2 or 3 roommates, max $2,500 each",
-  "updated": "2026-09-24T08:57:54-04:00",
-  "updatedLabel": "24 Sep 2026, 8:57 AM ET",
+  "updated": "2026-10-06T08:29:11-04:00",
+  "updatedLabel": "6 Oct 2026, 8:29 AM ET",
   "perPerson": 2500,
   "empty": "Nothing in this filter.",
   "listings": [
@@ -349,25 +349,6 @@
       "added": "28 Aug 2026"
     },
     {
-      "id": "37-3rd-ave-1212",
-      "name": "37 3rd Avenue #1212",
-      "headline": "True 3BR / 2BA \u00b7 1,200 sqft at $7,000 (was $7,700)",
-      "rent": 7000,
-      "address": "37 3rd Ave #1212, New York, NY 10003",
-      "neighborhood": "East Village",
-      "beds": 3,
-      "baths": 2,
-      "sqft": 1200,
-      "available": "Immediate - price cut to $7,000 (was $7,700)",
-      "source": "Zumper / The Bouklis Group \u00b7 Leonardo Mora",
-      "ref": "listings/29462106p \u00b7 listing_id 65389579 \u00b7 listing_status 1 \u00b7 1200 sqft \u00b7 verified 23 Sep 2026",
-      "url": "https://www.zumper.com/listings/29462106p/3-bedroom-east-village-new-york-ny",
-      "photo": "photos/37-3rd-ave-1212.jpg",
-      "why": "$2,333 each. Large 3-bedroom with oversized windows, plank hardwood, granite + GE stainless, subway-tile baths, walk-in closets. Building amenity stack: 24/7 concierge/doorman, fitness, roof deck, laundry on each floor, bike storage. Was over the $7,500 cap at $7,700; now at the per-person ceiling.",
-      "note": "Doorman luxury building on 3rd Ave (EV / NoHo edge). Realty_mx syndication but unit-specific copy and 1,200 sqft. Confirm true three bedrooms on tour (not flex).",
-      "added": "23 Sep 2026"
-    },
-    {
       "id": "49-e-7th-st",
       "name": "49 East 7th Street",
       "headline": "3BR / 2BA duplex at $7,000 - garden + in-unit laundry",
@@ -423,25 +404,6 @@
       "why": "$2,498 each. Dedicated Zumper page opened this morning at $7,495. Copy names a renovated East Village 3-bedroom with private patio, in-unit W/D, dishwasher, queen/full-size bedrooms with closets in every bedroom, hardwood, stainless, marble counters. Under the 3BR cap.",
       "note": "New overnight listing (datePosted 18 Sep). Feed is realty_mx but copy is unit-specific (not modern-luxury ROS boilerplate). date_available field blank/stale elsewhere in feed \u2014 treat as syndication metadata; page is listing_status 1 with yesterday's datePosted. One bath. Tour to confirm all three rooms fit. Staging photo: /workspace/tito-ny-photos-staging-2026-09-19/170-e-2nd-st-1e.jpg.",
       "added": "19 Sep 2026"
-    },
-    {
-      "id": "44-avenue-b-6-3r",
-      "name": "44 Avenue B #6-3R",
-      "headline": "Renovated true 3BR / 1.5BA at the $7,500 cap \u2014 balcony + in-unit W/D + exposed brick",
-      "rent": 7500,
-      "address": "44 Avenue B #6-3R, New York, NY 10009",
-      "neighborhood": "East Village",
-      "beds": 3,
-      "baths": 1.5,
-      "sqft": 1000,
-      "available": "15 Sep 2026 \u2014 Zumper date_available 2026/09/15; listing_status Available",
-      "source": "Zumper / Samantha Z \u00b7 Avail",
-      "ref": "listing_id 65281654 \u00b7 pl_id 29214585 \u00b7 /listings/29214585p \u00b7 provider avail.61696590 \u00b7 listed 8 Sep 2026 ~1:38 PM ET \u00b7 modified 9 Sep 2026 ~1:44 AM ET \u00b7 listing_status 1",
-      "url": "https://www.zumper.com/listings/29214585p/3-bedroom-east-village-new-york-ny",
-      "photo": "photos/44-avenue-b-6-3r.jpg",
-      "why": "$2,500 each on the nose. Dedicated /listings/ page opened this morning: named renovated 3-bedroom / 1.5-bath with stainless kitchen + dishwasher, in-unit W/D, hardwood, high ceilings, exposed brick, Deco fireplace, private balcony. 1000 sqft. Not flex/furnished/co-living. Same building as dropped #12 (still $8,500 \u2014 do not re-add).",
-      "note": "New overnight listing (created 8 Sep). Structured baths=1 + half_bathrooms=1 (copy says 1.5). A second Avail card for the same unit #6-3R also appears at $8,000 (Bernard Richards) \u2014 treat $7,500 Samantha Z page as the live ask and confirm price before touring. Staging photo: /workspace/tito-ny-photos-staging-2026-09-09/44-avenue-b-6-3r.jpg (kitchen + exposed brick).",
-      "added": "9 Sep 2026"
     }
   ]
 }
