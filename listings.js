@@ -1,8 +1,8 @@
 window.TITO_DATA = {
   "title": "Tito Goes to NY",
   "tagline": "Downtown, 2 or 3 roommates, max $2,500 each",
-  "updated": "2026-10-06T08:29:11-04:00",
-  "updatedLabel": "6 Oct 2026, 8:29 AM ET",
+  "updated": "2026-10-08T08:32:00-04:00",
+  "updatedLabel": "8 Oct 2026, 8:32 AM ET",
   "perPerson": 2500,
   "empty": "Nothing in this filter.",
   "listings": [
@@ -176,6 +176,25 @@ window.TITO_DATA = {
       "why": "Copy names two bedrooms and a 4-room layout. Hardwood, city views, live-in super. $2,375 each.",
       "note": "No dedicated listing URL this morning. Not StuyTown #9G.",
       "added": "24 Aug 2026"
+    },
+    {
+      "id": "221-e-10th-st-17",
+      "name": "221 East 10th Street #17",
+      "headline": "Split 2BR / 1BA at $4,800 with in-unit laundry and central AC",
+      "rent": 4800,
+      "address": "221 E 10th St #17, New York, NY 10003",
+      "neighborhood": "East Village",
+      "beds": 2,
+      "baths": 1,
+      "sqft": null,
+      "available": "Available ASAP",
+      "source": "Zumper / Mirador Real Estate",
+      "ref": "listing_id 65509403 \u00b7 pl_id 24609946 \u00b7 /listings/24609946p \u00b7 datePosted 8 Oct 2026 ~3:46 AM ET \u00b7 listing_status 1 \u00b7 verified 8 Oct 2026",
+      "url": "https://www.zumper.com/listings/24609946p/2-bedroom-east-village-new-york-ny",
+      "photo": "photos/221-e-10th-st-17.jpg",
+      "why": "$2,400 each. Brand-new overnight listing on a tree-lined block of East 10th between 1st and 2nd. Split plan: the bigger bedroom fits a queen, desk, and dresser with a closet; the smaller fits a full bed and desk. Full-size washer/dryer in the unit, central AC, new hardwood, south-facing light, separate kitchen.",
+      "note": "Broker calls it a very small wing 2BR (or 1BR plus den). The second bedroom has no closet, so check the floorplan and tour before committing. 4th-floor walk-up. Showings only at listed times, no video tours.",
+      "added": "8 Oct 2026"
     },
     {
       "id": "101-thompson-st-5",
@@ -385,25 +404,6 @@ window.TITO_DATA = {
       "why": "$2,400 each. Sunny 3-bedroom in the heart of West Village (REAL New York). Hardwood + AC. Stock-photo disclaimer on listing (ask for video tour).",
       "note": "Tour / video to confirm all three rooms and that photos match unit #17. 1 bath for 3 roommates. $2,400 each.",
       "added": "24 Sep 2026"
-    },
-    {
-      "id": "170-e-2nd-st-1e",
-      "name": "170 East 2nd Street #1E",
-      "headline": "Renovated true 3BR / 1BA at $7,495 \u2014 private patio + in-unit W/D",
-      "rent": 7495,
-      "address": "170 E 2nd St #1E, New York, NY 10009",
-      "neighborhood": "East Village",
-      "beds": 3,
-      "baths": 1,
-      "sqft": null,
-      "available": "Listed 18 Sep 2026 \u2014 Available",
-      "source": "Zumper / Real New York APARTMENTS \u00b7 RealtyMX",
-      "ref": "listing_id 65361243 \u00b7 pl_id 4400053 \u00b7 /listings/4400053p \u00b7 datePosted 18 Sep 2026 ~8:23 AM ET \u00b7 dateModified 18 Sep 2026 ~8:27 AM ET \u00b7 listing_status 1 \u00b7 verified 19 Sep 2026",
-      "url": "https://www.zumper.com/listings/4400053p/3-bedroom-east-village-new-york-ny",
-      "photo": "photos/170-e-2nd-st-1e.jpg",
-      "why": "$2,498 each. Dedicated Zumper page opened this morning at $7,495. Copy names a renovated East Village 3-bedroom with private patio, in-unit W/D, dishwasher, queen/full-size bedrooms with closets in every bedroom, hardwood, stainless, marble counters. Under the 3BR cap.",
-      "note": "New overnight listing (datePosted 18 Sep). Feed is realty_mx but copy is unit-specific (not modern-luxury ROS boilerplate). date_available field blank/stale elsewhere in feed \u2014 treat as syndication metadata; page is listing_status 1 with yesterday's datePosted. One bath. Tour to confirm all three rooms fit. Staging photo: /workspace/tito-ny-photos-staging-2026-09-19/170-e-2nd-st-1e.jpg.",
-      "added": "19 Sep 2026"
     }
   ]
 };
