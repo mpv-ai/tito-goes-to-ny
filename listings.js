@@ -1,30 +1,11 @@
 window.TITO_DATA = {
   "title": "Tito Goes to NY",
   "tagline": "Downtown, 2 or 3 roommates, max $2,500 each",
-  "updated": "2026-11-13T08:55:00-05:00",
-  "updatedLabel": "13 Nov 2026, 8:55 AM ET",
+  "updated": "2026-11-14T08:15:00-05:00",
+  "updatedLabel": "14 Nov 2026, 8:15 AM ET",
   "perPerson": 2500,
   "empty": "Nothing in this filter.",
   "listings": [
-    {
-      "id": "630-e-9th-st-bw",
-      "name": "630 East 9th Street #BW",
-      "headline": "Split-bedroom 2BR / 1BA at $3,400 \u2014 both rooms windowed",
-      "rent": 3400,
-      "address": "630 E 9th St #BW, New York, NY 10009",
-      "neighborhood": "East Village",
-      "beds": 2,
-      "baths": 1,
-      "sqft": null,
-      "available": "Immediate \u2014 listed 17 Jun 2026",
-      "source": "Zumper / Frank Benbelaid",
-      "ref": "address page unit BW \u00b7 listed 17 Jun 2026 \u00b7 73 days on market \u00b7 dateModified 29 Aug 2026",
-      "url": "https://www.zumper.com/address/630-e-9th-st-new-york-ny-10009-usa",
-      "photo": "photos/630-e-9th-st-bw.jpg",
-      "why": "$1,700 each. Live Available unit on the building page. Copy names split bedrooms, each windowed, full kitchen with dishwasher / breakfast bar, hardwood, subway-tile bath. Pets OK. Laundry in building. Near Tompkins Square Park.",
-      "note": "BW is likely a basement/garden unit \u2014 tour the light. Same 73-day Frank Benbelaid feed as 412 E 9th. Cheap enough to be stale. Fees: first month + security + credit check. Walk-up.",
-      "added": "29 Aug 2026"
-    },
     {
       "id": "e-14th-st-19",
       "name": "E 14th Street #19",
@@ -330,25 +311,6 @@ window.TITO_DATA = {
       "added": "6 Sep 2026"
     },
     {
-      "id": "412-e-9th-st-9",
-      "name": "412 East 9th Street #9",
-      "headline": "3BR / 1BA at $6,995 \u2014 same building as #8",
-      "rent": 6995,
-      "address": "412 E 9th St #9, New York, NY 10009",
-      "neighborhood": "East Village",
-      "beds": 3,
-      "baths": 1,
-      "sqft": null,
-      "available": "Listed 1 Aug 2026 \u2014 still marked Available",
-      "source": "Zumper / Frank Benbelaid",
-      "ref": "address page unit 9 \u00b7 listed 4 Jul 2026 \u00b7 55 days on market \u00b7 building updated 6 hours ago",
-      "url": "https://www.zumper.com/address/412-e-9th-st-new-york-ny-10009-usa",
-      "photo": "photos/412-e-9th-st-9.jpg",
-      "why": "$2,332 each. Still Available on the live building page. High ceilings, exposed brick, six windows, separate kitchen with dishwasher. Pets allowed.",
-      "note": "Weaker bedroom copy than #8. Stale-date risk: avail dated 1 Aug 2026, 55 DOM. Call before touring. Walk-up, one bath.",
-      "added": "28 Aug 2026"
-    },
-    {
       "id": "49-e-7th-st",
       "name": "49 East 7th Street",
       "headline": "3BR / 2BA duplex at $7,000 - garden + in-unit laundry",
@@ -442,6 +404,44 @@ window.TITO_DATA = {
       "why": "$2,333 each. Sun-splashed prewar 3-bedroom with high ceilings, hardwood floors, windowed galley kitchen, subway-tile bath, king and queen size bedrooms, near Tompkins Square Park.",
       "note": "Photo is the building exterior. Copy says elevator building but the facade shows fire escapes, so confirm. Copy names only a king and a queen bedroom, so tour the third room and check for laundry.",
       "added": "13 Nov 2026"
+    },
+    {
+      "id": "250-10th-ave-3",
+      "name": "250 10th Ave #3",
+      "headline": "Chelsea 2BR / 1BA, 900 sqft, at $4,850",
+      "rent": 4850,
+      "address": "250 10th Ave #3, New York, NY 10001",
+      "neighborhood": "Chelsea",
+      "beds": 2,
+      "baths": 1,
+      "sqft": 900,
+      "available": "Available now (updated 14 Nov 2026)",
+      "source": "Zumper",
+      "ref": "listing_id 65779971 \u00b7 /listings/1233330p \u00b7 listing_status 1 \u00b7 verified 14 Nov 2026",
+      "url": "https://www.zumper.com/listings/1233330p/2-bedroom-chelsea-new-york-ny",
+      "photo": "photos/250-10th-ave-3.jpg",
+      "why": "$2,425 each. Real 2BR with 900 sqft on 10th Ave in West Chelsea, 8 photos.",
+      "note": "Listing has no description text, so confirm bedroom sizes, laundry and any broker fee.",
+      "added": "14 Nov 2026"
+    },
+    {
+      "id": "222-e-14th-st-14m",
+      "name": "222 E 14th St #14M",
+      "headline": "East Village 3BR / 2BA at $6,400, in-unit laundry",
+      "rent": 6400,
+      "address": "222 E 14th St #14M, New York, NY 10003",
+      "neighborhood": "East Village",
+      "beds": 3,
+      "baths": 2,
+      "sqft": null,
+      "available": "Available now (updated 14 Nov 2026)",
+      "source": "Zumper (verified company)",
+      "ref": "listing_id 65334292 \u00b7 /listings/29567929p \u00b7 building units list 14M as 3 beds, 2 baths, $6,400 \u00b7 verified 14 Nov 2026",
+      "url": "https://www.zumper.com/listings/29567929p/3-bedroom-east-village-new-york-ny",
+      "photo": "photos/222-e-14th-st-14m.jpg",
+      "why": "$2,133 each. 3 bed, 2 bath with in-unit laundry, dishwasher, walk-in closets, hardwood floors and high ceilings, near Union Square.",
+      "note": "Amenities are listed at building level for the address and mention furnished, so confirm what is in 14M. Sqft not listed.",
+      "added": "14 Nov 2026"
     }
   ]
 };
