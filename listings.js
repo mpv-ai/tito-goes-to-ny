@@ -1,8 +1,8 @@
 window.TITO_DATA = {
   "title": "Tito Goes to NY",
   "tagline": "Downtown, 2 or 3 roommates, max $2,500 each",
-  "updated": "2026-11-15T08:25:00-05:00",
-  "updatedLabel": "15 Nov 2026, 8:25 AM ET",
+  "updated": "2026-11-16T08:04:00-05:00",
+  "updatedLabel": "16 Nov 2026, 8:04 AM ET",
   "perPerson": 2500,
   "empty": "Nothing in this filter.",
   "listings": [
@@ -499,6 +499,44 @@ window.TITO_DATA = {
       "why": "$2,365 each. Pets OK, modern kitchen, high-end finishes. Zumper tags it Greenwich Village.",
       "note": "Generic copy, street number hidden, priced well below median. Same listing family as E 13th #2C and E 14th #21. Tour to confirm two real bedrooms.",
       "added": "15 Nov 2026"
+    },
+    {
+      "id": "w-23rd-st-6c",
+      "name": "W 23rd Street #6C",
+      "headline": "Chelsea 3BR / 2BA at $6,995",
+      "rent": 6995,
+      "address": "W 23rd St #6C, New York, NY 10011",
+      "neighborhood": "Chelsea",
+      "beds": 3,
+      "baths": 2,
+      "sqft": null,
+      "available": "Available now (updated 16 Nov 2026)",
+      "source": "Zumper",
+      "ref": "listing 58917944 \u00b7 opened 16 Nov 2026 \u00b7 updated 9 hours ago",
+      "url": "https://www.zumper.com/listings/58917944/3-bedroom-chelsea-new-york-ny",
+      "photo": "photos/w-23rd-st-6c.jpg",
+      "why": "$2,332 each. 3BR with 2 baths in Chelsea, open kitchen with breakfast bar, granite counters, stainless appliances, dishwasher, pets OK, 12 photos.",
+      "note": "Street number hidden on the listing. Confirm exact address, laundry and broker fee on tour.",
+      "added": "16 Nov 2026"
+    },
+    {
+      "id": "w-14th-st-11a",
+      "name": "W 14th Street #11A",
+      "headline": "Chelsea 3BR / 2BA condo at $7,250",
+      "rent": 7250,
+      "address": "W 14th St #11A, New York, NY 10011",
+      "neighborhood": "Chelsea",
+      "beds": 3,
+      "baths": 2,
+      "sqft": null,
+      "available": "Available now (updated 16 Nov 2026)",
+      "source": "Zumper",
+      "ref": "listing 58917943 \u00b7 opened 16 Nov 2026 \u00b7 updated 9 hours ago",
+      "url": "https://www.zumper.com/listings/58917943/3-bedroom-chelsea-new-york-ny",
+      "photo": "photos/w-14th-st-11a.jpg",
+      "why": "$2,417 each. 3BR / 2BA condo on a high floor with city views, hardwood floors, courtyard, fitness center and resident lounge, pets OK, 12 photos.",
+      "note": "Street number hidden. Zumper tags it Chelsea but it sits on the West Village / Chelsea border. Confirm address and fees on tour.",
+      "added": "16 Nov 2026"
     }
   ]
 };
