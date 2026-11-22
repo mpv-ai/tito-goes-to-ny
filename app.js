@@ -27,7 +27,7 @@ function matches(l) {
   if (f === "soho" && !["SoHo","NoHo","NoLita","Hudson Square"].includes(l.neighborhood)) return false;
   if (f === "chelsea" && !["Chelsea","Meatpacking"].includes(l.neighborhood)) return false;
   if (state.q) {
-    const blob = [l.name, l.headline, l.address, l.neighborhood, l.note, l.why].join(" ").toLowerCase();
+    const blob = [l.name, l.headline, l.address, l.neighborhood, l.note, l.why, l.source].join(" ").toLowerCase();
     if (!blob.includes(state.q.toLowerCase())) return false;
   }
   return true;
