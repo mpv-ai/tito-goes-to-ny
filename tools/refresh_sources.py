@@ -212,7 +212,7 @@ async def recheck(out):
                     if 'Show occupied' in t and not (m and m.group(1).startswith('$') and '#' in t[:600]):
                         unit = (l['address'].split('#') + [''])[1].split(',')[0].strip()
                         mm = re.search(r'AVAILABLE\s*\n\s*%s\s*\n(.{0,120}?)\$([\d,]+)' % re.escape(unit), t, re.S | re.I)
-                        r['live'] = bool(mm); r['rent'] = mm and mm.group(2)
+                        if mm: r['live'] = True; r['rent'] = mm.group(2)  # keep header-rent live flag when the unit row is not listed (e.g. generic-copy units)
                 elif 'renthop.com' in u:
                     pr = re.search(r'\n\$([\d,]+)\s*\n', t); r['rent'] = pr and pr.group(1)
                     r['live'] = bool(pr) and not re.search(r'no longer available|listing (is )?(inactive|off)', t, re.I)

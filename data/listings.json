@@ -1,8 +1,8 @@
 {
   "title": "Tito Goes to NY",
   "tagline": "Downtown, 2 or 3 roommates, max $2,500 each",
-  "updated": "2026-11-22T19:30:00-05:00",
-  "updatedLabel": "22 Nov 2026, 7:30 PM ET",
+  "updated": "2026-11-23T08:05:00-05:00",
+  "updatedLabel": "23 Nov 2026, 8:05 AM ET",
   "perPerson": 2500,
   "empty": "Nothing in this filter.",
   "listings": [
@@ -292,25 +292,6 @@
       "added": "12 Nov 2026"
     },
     {
-      "id": "501-w-28th-st-10",
-      "name": "501 West 28th Street #10",
-      "headline": "High Line corner 3BR at $7,495 - queens with windows and closets",
-      "rent": 7495,
-      "address": "501 W 28th St #10, New York, NY 10001",
-      "neighborhood": "Chelsea",
-      "beds": 3,
-      "baths": 1,
-      "sqft": null,
-      "available": "Open house daily - still live 12 Nov 2026",
-      "source": "Zumper / Oxford Property Group (listhub)",
-      "ref": "listing_id 65089626 · /listings/29284055p · listing_status 1 · listed 12 Aug 2026 · verified 12 Nov 2026",
-      "url": "https://www.zumper.com/listings/29284055p/3-bedroom-chelsea-new-york-ny",
-      "photo": "photos/501-w-28th-st-10.jpg",
-      "why": "$2,498 each. Sun-drenched corner 3-bedroom on the High Line: queen-sized bedrooms each with a window and closet, 10-foot ceilings, living room with Chelsea Park views and a deco fireplace, windowed bath with whirlpool tub. Pre-war building with laundry, steps to Whole Foods and the High Line.",
-      "note": "One bath for three roommates. Open house daily, no appointment (call on arrival). Tour to confirm all three rooms.",
-      "added": "12 Nov 2026"
-    },
-    {
       "id": "44-avenue-b-6-3r",
       "name": "44 Avenue B #6-3R",
       "headline": "Renovated 3BR / 1.5BA at the $7,500 cap - balcony + in-unit W/D",
@@ -347,25 +328,6 @@
       "why": "$2,333 each. Sun-splashed prewar 3-bedroom with high ceilings, hardwood floors, windowed galley kitchen, subway-tile bath, king and queen size bedrooms, near Tompkins Square Park.",
       "note": "Photo is the building exterior. Copy says elevator building but the facade shows fire escapes, so confirm. Copy names only a king and a queen bedroom, so tour the third room and check for laundry.",
       "added": "13 Nov 2026"
-    },
-    {
-      "id": "250-10th-ave-3",
-      "name": "250 10th Ave #3",
-      "headline": "Chelsea 2BR / 1BA, 900 sqft, at $4,850",
-      "rent": 4850,
-      "address": "250 10th Ave #3, New York, NY 10001",
-      "neighborhood": "Chelsea",
-      "beds": 2,
-      "baths": 1,
-      "sqft": 900,
-      "available": "Available now (updated 14 Nov 2026)",
-      "source": "Zumper",
-      "ref": "listing_id 65779971 · /listings/1233330p · listing_status 1 · verified 14 Nov 2026",
-      "url": "https://www.zumper.com/listings/1233330p/2-bedroom-chelsea-new-york-ny",
-      "photo": "photos/250-10th-ave-3.jpg",
-      "why": "$2,425 each. Real 2BR with 900 sqft on 10th Ave in West Chelsea, 8 photos.",
-      "note": "Listing has no description text, so confirm bedroom sizes, laundry and any broker fee.",
-      "added": "14 Nov 2026"
     },
     {
       "id": "630-e-9th-st-bw",
@@ -651,6 +613,25 @@
       "note": "Only 800 sqft for three bedrooms and photos are model finishes, not the unit. Tour before deciding.",
       "photo": "photos/11-waverly-pl-9.jpg",
       "added": "22 Nov 2026"
+    },
+    {
+      "id": "441-e-12th-st-1f",
+      "name": "441 E 12th Street #1F",
+      "headline": "No-fee 3BR / 1BA, one flight up, at $6,500",
+      "rent": 6500,
+      "address": "441 E 12th St #1F, New York, NY 10009",
+      "neighborhood": "East Village",
+      "beds": 3,
+      "baths": 1,
+      "sqft": null,
+      "available": "Immediately (posted 23 Nov 2026)",
+      "source": "RentHop / EXP Realty (Desmond)",
+      "ref": "69419722",
+      "url": "https://www.renthop.com/listings/east-12th-street/1f/69419722",
+      "why": "Three queen-size bedrooms with closets, renovated kitchen and strip hardwood floors for $2,167 each, no broker fee, 3 minutes from the L at 1st Ave.",
+      "note": "Photos may be from an earlier listing. Laundry not listed in building. Tour to confirm.",
+      "photo": "photos/441-e-12th-st-1f.jpg",
+      "added": "23 Nov 2026"
     }
   ]
 }
