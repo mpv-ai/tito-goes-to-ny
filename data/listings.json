@@ -1,8 +1,8 @@
 {
   "title": "Tito Goes to NY",
   "tagline": "Downtown, 2 or 3 roommates, max $2,500 each",
-  "updated": "2026-11-23T08:05:00-05:00",
-  "updatedLabel": "23 Nov 2026, 8:05 AM ET",
+  "updated": "2026-11-26T08:10:00-05:00",
+  "updatedLabel": "26 Nov 2026, 8:10 AM ET",
   "perPerson": 2500,
   "empty": "Nothing in this filter.",
   "listings": [
@@ -100,25 +100,6 @@
       "why": "Best new 2BR this morning. Live address page at $4,500. Copy names both bedrooms (queen + desk + dresser + closet each), fully separate kitchen and dining, in-unit W/D, gut-renovated walk-up, virtual doorman. $2,250 each.",
       "note": "Stale-date risk: datePosted 22 Mar 2025. Zumper page is live this morning with a price and tour dates. Call before touring. No dedicated /listings/ URL.",
       "added": "29 Aug 2026"
-    },
-    {
-      "id": "326-e-11th-st-15",
-      "name": "326 East 11th Street #15",
-      "headline": "True queen-bed 2BR / 1BA at $4,500 - top floor, sun-flooded",
-      "rent": 4500,
-      "address": "326 E 11th St #15, New York, NY 10003",
-      "neighborhood": "East Village",
-      "beds": 2,
-      "baths": 1,
-      "sqft": null,
-      "available": "Inquire - listed live 11 Nov 2026",
-      "source": "Zumper / Compass (listhub)",
-      "ref": "listing_id 64031373 · /listings/6449821p · listing_status 1 · listed 11 Nov 2026 · verified 12 Nov 2026",
-      "url": "https://www.zumper.com/listings/6449821p/2-bedroom-east-village-new-york-ny",
-      "photo": "photos/326-e-11th-st-15.jpg",
-      "why": "$2,250 each. True 2 bedrooms that both fit queens with large closets. Extra-spacious top-floor walk-up, every room gets light, south-facing living room, renovated kitchen with stainless and dishwasher, windowed bath, high ceilings. On East 11th between 1st and 2nd.",
-      "note": "Zumper tags it Greenwich Village; the address and copy are East Village. Compass photos. Walk-up, one bath. Tour to confirm the layout.",
-      "added": "12 Nov 2026"
     },
     {
       "id": "630-e-9th-st-20",
